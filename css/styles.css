@@ -1,0 +1,125 @@
+body{
+  background-color: grey;
+}
+*{
+  margin: 0;
+}
+
+
+
+
+
+
+/***************************CLASS SELECTOR***************************/
+.bg1{
+  background-color: blue;
+
+  margin-left: 0;
+  margin-right: 35%;
+  margin-top: 0;
+  height:100vh;
+
+
+}
+.bg2{
+  background-color: white;
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  width: 100%;
+  height: 100%;
+
+
+
+}
+.positionname{
+  position: absolute;
+  top: 10%;
+  left: 6%;
+  font-size: 150%;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+
+.table{
+  position: relative;
+  top: 10%;
+  left: 6%;
+
+}
+.name{
+  font-weight: bold;
+  font-size: 130%;
+}
+.skills{
+  position: absolute;
+  font-size: 150%;
+  color: grey;
+  font-family: sans-serif;
+  top: 10%;
+  left: 50%;
+
+
+
+
+
+}
+.s{
+  position: relative;
+  color: grey;
+  font-size: 125%;
+}
+.contact{
+  position: absolute;
+  font-size: 150%;
+  color: grey;
+  font-family: sans-serif;
+  top: 10%;
+  left: 60%;
+
+}
+.link{
+  text-decoration: none;
+  color: grey;
+}
+.about{
+  position: absolute;
+  font-size: 150%;
+  color: grey;
+  font-family: sans-serif;
+  top: 10%;
+  left: 75%;
+}
+.ui{
+position: relative;
+top: 40%;
+left: 6%;
+font-size: 550%;
+font-weight: bold;
+font-family: Sans-serif;
+
+}
+.blue{
+  color: blue;
+}
+.h4{
+  position: relative;
+  top: 42%;
+  left: 7%;
+  font-size: 150%;
+  font-weight: normal;
+  font-family: Sans-serif;
+}
+.contactlink{
+  text-decoration: none;
+  color: grey;
+}
+.skillslink{
+  text-decoration: none;
+  color: grey;
+}
+.aboutlink{
+  text-decoration: none;
+  color: grey;
+}
